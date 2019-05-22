@@ -1,0 +1,4 @@
+E:\提升\DesignPattern\ColorPrototype\bin\Debug\ColorPrototype.exe
+E:\提升\DesignPattern\ColorPrototype\bin\Debug\ColorPrototype.pdb
+E:\提升\DesignPattern\ColorPrototype\obj\x86\Debug\ColorPrototype.exe
+E:\提升\DesignPattern\ColorPrototype\obj\x86\Debug\ColorPrototype.pdb

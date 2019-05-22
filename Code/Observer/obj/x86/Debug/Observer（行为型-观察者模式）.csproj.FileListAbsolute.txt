@@ -1,0 +1,4 @@
+E:\提升\DesignPattern\Observer\bin\Debug\Observer.exe
+E:\提升\DesignPattern\Observer\bin\Debug\Observer.pdb
+E:\提升\DesignPattern\Observer\obj\x86\Debug\Observer.exe
+E:\提升\DesignPattern\Observer\obj\x86\Debug\Observer.pdb

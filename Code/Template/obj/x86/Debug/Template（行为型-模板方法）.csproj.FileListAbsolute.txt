@@ -1,0 +1,4 @@
+E:\提升\DesignPattern\Template\bin\Debug\Template.exe
+E:\提升\DesignPattern\Template\bin\Debug\Template.pdb
+E:\提升\DesignPattern\Template\obj\x86\Debug\Template.exe
+E:\提升\DesignPattern\Template\obj\x86\Debug\Template.pdb
