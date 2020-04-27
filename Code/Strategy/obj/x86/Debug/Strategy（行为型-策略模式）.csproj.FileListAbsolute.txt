@@ -1,4 +1,0 @@
-E:\提升\DesignPattern\Strategy\bin\Debug\Strategy.exe
-E:\提升\DesignPattern\Strategy\bin\Debug\Strategy.pdb
-E:\提升\DesignPattern\Strategy\obj\x86\Debug\Strategy.exe
-E:\提升\DesignPattern\Strategy\obj\x86\Debug\Strategy.pdb

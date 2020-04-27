@@ -1,4 +1,0 @@
-E:\提升\DesignPattern\Interpreter\bin\Debug\Interpreter.exe
-E:\提升\DesignPattern\Interpreter\bin\Debug\Interpreter.pdb
-E:\提升\DesignPattern\Interpreter\obj\x86\Debug\Interpreter.exe
-E:\提升\DesignPattern\Interpreter\obj\x86\Debug\Interpreter.pdb

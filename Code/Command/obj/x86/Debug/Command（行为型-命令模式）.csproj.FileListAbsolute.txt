@@ -1,4 +1,0 @@
-E:\提升\DesignPattern\Command\bin\Debug\Command.exe
-E:\提升\DesignPattern\Command\bin\Debug\Command.pdb
-E:\提升\DesignPattern\Command\obj\x86\Debug\Command.exe
-E:\提升\DesignPattern\Command\obj\x86\Debug\Command.pdb
